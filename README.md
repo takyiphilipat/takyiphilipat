@@ -7,9 +7,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=22&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=Full-stack%20developer%20%7C%20Laravel%2C%20Vue%2C%20Python%20%7C%20AWS%20%26%20DevOps." alt="Typing headlines" />
 
 <br />
+ 📫 Connect
 
-[![Portfolio](https://img.shields.io/badge/GitHub-takyiphilipat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/takyiphilipat)
-
+<p align="center">
+  <a href="mailto:takyiphilipat@gmail.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=FFFFFF" /></a>
+  <a href="https://linkedin.com/in/philip-takyi-8363b5310"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=FFFFFF" /></a>
+  <a href="https://philipbuilds.page.gd/"><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=FFFFFF" /></a>
+</p>
 </div>
 
 ---
@@ -43,7 +47,8 @@
 
 ## 🎓 Certifications
 
-✅ AWS Certified Cloud Practitioner (CLF-C02)
+- ✅ AWS Certified Cloud Practitioner (CLF-C02)
+
 
 
 ## 🚀 Featured Projects
@@ -51,19 +56,30 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>INTERNET DATA BUNBLE SALES SITE</h3>
+      <h3>VJay Data Plus</h3>
       Laravel e-commerce platform for mobile data bundles in Ghana.<br /><br />
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <br /><br />
+      <a href="https://philipbuilds.page.gd/"><img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
     </td>
     <td align="center" width="50%">
       <h3>Image Edit App</h3>
       Python image editing app with a set of image processing techniques.<br /><br />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <br /><br />
+      <a href="https://github.com/takyiphilipat/image_processing-image-edit-app-in-python"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
 </table>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=takyiphilipat&show_icons=true&theme=tokyonight&title_color=5b6573&icon_color=5b6573&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=takyiphilipat&layout=compact&theme=tokyonight&title_color=5b6573&icon_color=5b6573&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
 ## 📈 Contribution Graph
 
