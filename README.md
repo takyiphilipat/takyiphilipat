@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Philip 👋
 
-<!--
-**takyiphilipat/takyiphilipat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science & Engineering student at the University of Mines and Technology (UMaT), Tarkwa, Ghana. Self-taught full-stack developer.
 
-Here are some ideas to get you started:
+## Currently
+- Building and maintaining **VJay Data Plus**, a Laravel e-commerce platform for mobile data bundles in Ghana
+- Learning cloud and networking through the AmaliTech Ghana AWS re/Start program
+- Building image processing tools in Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+Laravel · PHP · MySQL · Redis · Vue.js · Inertia.js · Python
+
+## Projects
+- **VJay Data Plus**: Laravel e-commerce platform for mobile data bundles
+- **Image Edit App**: Python image editing app with a set of image processing techniques
