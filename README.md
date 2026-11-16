@@ -1,6 +1,6 @@
 # Hi, I'm Philip 👋
 
-Computer Science & Engineering student at the University of Mines and Technology (UMaT), Tarkwa, Ghana. Self-taught full-stack developer.
+Computer Science & Engineering student at the University of Mines and Technology (UMaT), Tarkwa, Ghana.full-stack developer.
 
 ## Currently
 - Building and maintaining **VJay Data Plus**, a Laravel e-commerce platform for mobile data bundles in Ghana
